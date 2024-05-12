@@ -25,7 +25,7 @@ Turkmen language:
 LANGUAGE_CODE = "tk"
 ```
 
-Uzbel language:
+Uzbek language:
 ```bash
 LANGUAGE_CODE = "uz"
 ```

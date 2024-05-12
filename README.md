@@ -9,6 +9,8 @@ BigCode is a modified version of the Jazzmin admin panel, adapted for handling B
 - Fixes to original Jazzmin issues, including the non-functional logout button.
 - Addition of a visitation diagram to track admin panel usage.
 - Minor visual enhancements for improved user experience.
+- Turkmen language.
+- Uzbek language.
 
 ## Installation
 
@@ -16,6 +18,16 @@ Install the BigCode project by running the following command:
 
 ```bash
 pip install bigcode==1.0.1
+```
+
+Turkmen language:
+```bash
+LANGUAGE_CODE = "tk"
+```
+
+Uzbel language:
+```bash
+LANGUAGE_CODE = "uz"
 ```
 
 ## Usage

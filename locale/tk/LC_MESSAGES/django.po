@@ -1025,3 +1025,9 @@ msgstr "Hasapdan çykmak"
 
 msgid "Changed Name."
 msgstr "Üýtgedilen at."
+
+msgid "Django Administration"
+msgstr "Django administrasiýasy"
+
+msgid "Version"
+msgstr "wersiýa"

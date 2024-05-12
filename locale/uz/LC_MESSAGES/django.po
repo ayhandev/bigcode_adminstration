@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-29 17:38+0100\n"
+"PO-Revision-Date: 2024-04-13 21:36+0500\n"
+"Last-Translator: Bruno Brouard <Ayhancik>\n"
+"Language-Team: Ayhancik ()\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Users"
+msgstr "Foydalanuvchilar"
+
+msgid "Dashboard"
+msgstr "Boshqaruv paneli"
+
+msgid "Home"
+msgstr "Uy"
+
+msgid "Django Administration"
+msgstr "Django ma'muriyatining"
+
+msgid "Version"
+msgstr "versiyasi"
+
+msgid "Old password"
+msgstr "Eski parol"
+
+msgid "Please enter your old password, for security's sake, and then enter your new password twice so we can verify you typed it in correctly."
+msgstr "Iltimos, xavfsizlik uchun eski parolingizni kiriting, so'ngra uni to'g'ri kiritganingizni tekshirishimiz uchun yangi parolingizni ikki marta kiriting."
+
+msgid "Visit to the Admin panel page"
+msgstr "Administrator paneli sahifasiga tashrif buyuring"
+
+msgid "How many times have you visited the admin panel"
+msgstr "Administrator paneliga necha marta tashrif"
+
+msgid "Recent Actions"
+msgstr "Oxirgi harakatlar"

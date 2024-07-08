@@ -47,7 +47,7 @@ INSTALLED_APPS = [
 
 ## Support
 
-- [Our Instagram account](https://www.instagram.com/big_code_official/)
+- [Our Instagram account](https://www.instagram.com/big_code_tm/)
 
 ## Contributions
 

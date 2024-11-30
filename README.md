@@ -39,8 +39,8 @@ After installation, you can use BigCode similar to the standard Django admin pan
 ```python
 # Example code for connecting BigCode to a Django project
 INSTALLED_APPS = [
-    ...
     'bigcode',
+    ...
     ...
 ]
 ```
